@@ -1,4 +1,4 @@
-Rohan Ali Lab 2, weather App
-500777991
+Weather App using Open Weather API, Gives Javascript error due to not being HTTPS domain. However does work on Local
 
-Open up index.html, if they're any problems feel free to email me on Rohan.ali@ryerson.ca, Thanks.
+Error: Mixed Content: The page at '<URL>' was loaded over HTTPS, but requested an insecure script '<URL>'. This request has been blocked; the content must be served over HTTPS.
+
