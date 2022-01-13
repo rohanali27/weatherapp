@@ -1,0 +1,55 @@
+body{
+	margin:0;
+	padding: 0;
+
+}
+
+.header{
+	height:100vh;
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../Fb.jpg);
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: 'Varela', sans-serif; 
+}
+
+h1{
+	text-align: center;
+	color: #FFF;
+	margin-bottom: 50px;
+	font-size: 100px;
+	letter-spacing: 2px;
+}
+span{
+	color: #68FFB9;
+}
+.search-field{
+	height: 40px;
+	padding: 10px;
+}
+.location{
+	width:450px;
+}
+.search-btn{
+	height: 64px;
+	width: 150px;
+	margin-right: 10px;
+	background:#68FFB9;
+	border: none;
+	color: #FFF;
+}
+.search-btn:hover{
+	 
+	background:#57EBA6;
+	cursor: pointer;	 
+}
+label{
+	font-family: 'Varela', sans-serif;
+	font-size:20px;
+	color:#68FFB9
+
+ }
+ #show{
+ 	color:#FFF;
+ }
